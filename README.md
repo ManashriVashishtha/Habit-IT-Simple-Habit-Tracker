@@ -2,7 +2,7 @@
 Habit Tracker (Python + MySQL)
 
 A terminal-based habit tracking application built for personal use
-+ also to learn:
+And also to learn:
 - Python
 - MySQL database design
 - backend logic

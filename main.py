@@ -9,7 +9,7 @@ import mysql.connector
 connection = mysql.connector.connect(
     host="localhost",
     user="Manashri",
-    password="Fitall2@",
+    password="*******",
     database="habit_tracker"
 )
 
